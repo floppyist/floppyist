@@ -12,4 +12,4 @@ AI tools are part of my workflow, mainly to speed things up, explore ideas and h
 
 Most of all, I enjoy building things, figuring out how to make them work well and learning something along the way.
 
-Feel free to have a look around.
+Feel free to have a look around and **may the goose be with you!**
